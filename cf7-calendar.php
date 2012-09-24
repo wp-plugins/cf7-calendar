@@ -16,8 +16,8 @@ add_filter('the_content', 'page_text_filter', 1003);
 add_filter('widget_text', 'page_text_filter', 1004);
 
 function cf7activate() {
-    $opt['theme'] = 'calendar-tiger';
-    $opt['language'] = 'calendar-en';
+    $opt['theme'] = 'gold';
+    $opt['language'] = 'en';
     $opt['format'] = '%A, %B %e, %Y';
     $opt['showtime'] = false;
     update_option('wpcf7_calendar', $opt);
