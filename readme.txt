@@ -12,7 +12,7 @@ JavaScript Calendar for Content, Widget and also work for Contact Form 7 (please
 
 JavaScript Calendar for Content, Widget and also work for Contact Form 7
 
-This plugins using DHTML Calendar JS, version 1.0 by Mihai Bazon please visit www.dynarch.com/projects/calendar
+This plugins using DHTML Calendar JS, JSCal2 version 1.9 please visit www.dynarch.com/projects/calendar
 
 Compatibility:
 
